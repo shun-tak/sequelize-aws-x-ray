@@ -1,0 +1,31 @@
+{
+  "name": "sequelize-aws-x-ray",
+  "version": "1.0.0",
+  "description": "Sequelize extension for AWS X-Ray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shun-tak/sequelize-aws-x-ray.git"
+  },
+  "keywords": [
+    "sequelize",
+    "aws",
+    "amazon",
+    "x-ray",
+    "xray",
+    "mysql",
+    "postgresql"
+  ],
+  "author": "shun-tak <shun.tak221@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shun-tak/sequelize-aws-x-ray/issues"
+  },
+  "homepage": "https://github.com/shun-tak/sequelize-aws-x-ray#readme",
+  "dependencies": {
+    "aws-xray-sdk": "^1.0.0-beta"
+  }
+}
