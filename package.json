@@ -1,6 +1,6 @@
 {
   "name": "sequelize-aws-x-ray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sequelize extension for AWS X-Ray",
   "main": "index.js",
   "scripts": {
