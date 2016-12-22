@@ -2,6 +2,11 @@
 
 The `sequelize-aws-x-ray` module is a [`Sequelize`](http://sequelizejs.com/) extension for [AWS X-Ray](https://aws.amazon.com/xray/).
 
+Subprojects:
+- [sequelize-aws-x-ray-mysql](https://github.com/shun-tak/sequelize-aws-x-ray-mysql)
+- [sequelize-aws-x-ray-mysql2](https://github.com/shun-tak/sequelize-aws-x-ray-mysql2)
+- [sequelize-aws-x-ray-pg](https://github.com/shun-tak/sequelize-aws-x-ray-pg)
+
 ## Installation
 
 MySQL (with mysql module)
